@@ -1,0 +1,9 @@
+{
+  "thread_count": 5,
+  "thread_start_delay": 10,
+  "next_thread_delay": 5,
+  "action_delay": [3, 7],
+  "account_switch_delay": [30, 60],
+  "promo_code": "CASEFUNTESTNET",
+  "auto_restart_hour": 7
+}
